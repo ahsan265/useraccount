@@ -1,0 +1,6 @@
+{ 
+    "name" : "Traficity app",
+    "email" : "traficity@gmail.com",
+    "password" : "admin@traficity",
+    "secret" : "traficity"
+   }
